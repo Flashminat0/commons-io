@@ -119,6 +119,7 @@ import org.apache.commons.io.output.UnsynchronizedByteArrayOutputStream;
  * </p>
  */
 public class IOUtils {
+    // Modified by MS26908960 for IT5080 Lab 5
     // NOTE: This class is focused on InputStream, OutputStream, Reader and
     // Writer. Each method should take at least one of these as a parameter,
     // or return one of them.
